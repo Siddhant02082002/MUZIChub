@@ -425,13 +425,11 @@ header .master_play .vol input{
     border-radius: 50%;
     cursor: pointer;
  }
- header .song_side nav .user img{
+.user{
     position: absolute;
-    width: 30px;
-    height: 30px;
-    border-radius: 50%;
-    box-shadow: 2px 2px 8px #131312;
- }
+    top:0;
+    right:10%;
+}
 
  header .song_side .content {
      width:90%;
